@@ -17,6 +17,7 @@ I am Tomasz Mazur. A motivated and dedicated Computer Science and Engineering st
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-round&logo=github)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-round&logo=dotnet)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-round&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-round&logo=django&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmaz00&hide=TeX&layout=compact&exclude_repo=onx-task)
 
