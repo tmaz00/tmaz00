@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I am Tomasz Mazur. A motivated and dedicated Computer Science and Engineering student at AGH University of Science and Technology. Passionate with web development, maths and video games.<br>
+I am Tomasz Mazur. A young, motivated and dedicated Python Developer. Passionate about backend web development, machine learning, maths and video games.<br>
 
-- 🔨 I’m currently working on my web app to train fast typing.
-- 🔭 I’m currently looking for a job as a Software or Web Developer Intern
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 🔨 I’m currently learning about Machine Learning and Data Mining in Python
+- 🔭 I’m currently looking for a job as a Software Developer Intern, Backend Developer Intern or Machine Learning Intern
+- 💻 I’m looking for my first commercial experience in IT field
 - 📫 How to reach me: [![](https://img.shields.io/badge/facebook-3152A0?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Tomasz-Mazur/pfbid02J1Gxm2V8quFt7KGSWbyVkYRhpgFKbK2n5x86gZsES1wysECPHEs9nYyxoiuXiW3il/), [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tomasz-mazur-023767267/)
+- ⚡ Fun fact: Do you know that cats spend 70% of their life sleeping?
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-round&logo=Python) 
@@ -28,7 +29,7 @@ I am Tomasz Mazur. A motivated and dedicated Computer Science and Engineering st
 * Playing with my cat 🐈
 * Speedtyping ⌨
 * Watching movies 🎞 (especially horror 👻 and action ⚡)
-* Creating new ✨amazing✨ apps
+* Improving my skills and knowledge about Machine Learning and Software Development
 
 <!--
 **tmaz00/tmaz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
