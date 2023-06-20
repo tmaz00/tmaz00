@@ -8,18 +8,18 @@
   </i>
 </p>
 
+<div align=center>
+        <a href="https://www.linkedin.com/in/tmazur00/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.facebook.com/tmszmzr/"><img src="https://img.shields.io/badge/Facebook-ffffff?style=flat&logo=facebook" alt="Facebook" /></a>
+</div>
+<br>
+
 - 🔨 Currently learning how to program GPU using CUDA and Python.
 - 🔭 I’m currently looking for a job as a Software Developer Intern, Backend Developer Intern or Machine Learning Intern
 - 💻 I’m looking for my first commercial experience in IT field
 - ⚡ Fun fact: Do you know that cats spend 70% of their life sleeping?
 
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/tomasz mazur](https://www.linkedin.com/in/tomasz-mazur-023767267/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomasz mazur" height="30" width="40" /></a>
-<a href="[https://fb.com/tomasz mazur](https://www.facebook.com/people/Tomasz-Mazur/pfbid02J1Gxm2V8quFt7KGSWbyVkYRhpgFKbK2n5x86gZsES1wysECPHEs9nYyxoiuXiW3il/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomasz mazur" height="30" width="40" /></a>
-</p>
-
-***
+<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/tmaz00)
@@ -40,7 +40,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/tmaz00)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/tmaz00)
 
-***
+<h2></h2>
 
 <h3>Motto</h3>
 <i>"Where there's a will, there's a way"</i>
@@ -49,4 +49,4 @@
 <li> Playing with my cat 🐈
 <li> Speedtyping ⌨
 <li> Watching movies 🎞 (especially horror 👻 and action ⚡)
-<li> Improving my skills and knowledge about Machine Learning and Software Development
+<li> Coding with Python 🐍 and learning new things
