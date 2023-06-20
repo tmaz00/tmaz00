@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tomasz Mazur</h1>
-<h3 align="center">A young, motivated and dedicated Python Developer. Passionate about backend web development, machine learning, maths and video games.</h3>
+<h1 align="center">Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<p align="center">
+  <i>
+    I'm Tomasz. <br>
+    Python passionate and self-taught individual. <br>
+  </i>
+</p>
 
-- 🔨 I’m currently learning about Machine Learning and Data Mining in Python
+- 🔨 Currently learning how to program GPU using CUDA and Python.
 - 🔭 I’m currently looking for a job as a Software Developer Intern, Backend Developer Intern or Machine Learning Intern
 - 💻 I’m looking for my first commercial experience in IT field
 - ⚡ Fun fact: Do you know that cats spend 70% of their life sleeping?
